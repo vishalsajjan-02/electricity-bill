@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="eletricity bill">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Electricity Bill System/src" />
+    </SOURCES>
+  </library>
+</component>
